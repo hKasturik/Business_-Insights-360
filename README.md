@@ -13,6 +13,21 @@
 - DAX studio(for optimizing report)
 - KPI
 
+### INSIGHTS:
+-
+
+
+![Screenshot 2024-06-13 172021](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/0f546f2f-b516-4ce8-aec2-3ae7d76684bf)
+
+![Screenshot 2024-06-13 172056](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/f36cfc92-7945-4e01-8798-b3c2b5294141)
+
+![Screenshot 2024-06-13 172121](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/8d38d78b-dcd9-4822-8ec3-92f4819cb8f6)
+
+![Screenshot 2024-06-13 172144](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/a9c9ebd0-c467-4de5-a303-206ac0c95a1d)
+
+![Screenshot 2024-06-13 172212](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/2410d329-3a35-45b2-8718-b240d26165e2)
+
+![Screenshot 2024-06-13 172243](https://github.com/hKasturik/Business_-Insights-360/assets/170725023/53abe1ba-ceb2-4512-9f0a-5067e5ded801)
 
 
 
